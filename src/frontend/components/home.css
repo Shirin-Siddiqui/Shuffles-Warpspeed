@@ -1,0 +1,29 @@
+body{
+    background-color: #FDD05A;
+}
+.color-nav{
+    background-color: black !important;
+}
+.navbar-text{
+    color: white !important;
+}
+.button-styles{
+    background-color:black
+}
+.button-styles:hover {
+    background-color:hsl(227, 7%, 26%);
+    transition: 0.7s;
+}
+.empty-heading{
+    font-size: 5em;
+}
+.featured-text{
+    font-size: 4em;
+    /* text-align: left; */
+    padding: 100px 150px;
+    font-weight: 600;
+}
+
+.item-desc {
+    font-weight: 800;
+}

@@ -1,0 +1,21 @@
+.landing-page{
+	height: 100vh;
+	width: 100vw;
+	margin: 0;
+	padding: 0;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.landing-page__shuffles-img{
+	height: 100%;
+    width: 100%;  
+	/* background-color: red; */
+}
+.landing-page__shuffles-img img{
+	height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
